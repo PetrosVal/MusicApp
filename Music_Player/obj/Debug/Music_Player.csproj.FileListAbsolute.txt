@@ -1,0 +1,77 @@
+c:\users\michael\documents\visual studio 2015\Projects\Music_Player\Music_Player\bin\Debug\Music_Player.exe.config
+c:\users\michael\documents\visual studio 2015\Projects\Music_Player\Music_Player\bin\Debug\Music_Player.exe
+c:\users\michael\documents\visual studio 2015\Projects\Music_Player\Music_Player\bin\Debug\Music_Player.pdb
+c:\users\michael\documents\visual studio 2015\Projects\Music_Player\Music_Player\obj\Debug\Music_Player.csprojResolveAssemblyReference.cache
+c:\users\michael\documents\visual studio 2015\Projects\Music_Player\Music_Player\obj\Debug\Music_Player.Form1.resources
+c:\users\michael\documents\visual studio 2015\Projects\Music_Player\Music_Player\obj\Debug\Music_Player.Properties.Resources.resources
+c:\users\michael\documents\visual studio 2015\Projects\Music_Player\Music_Player\obj\Debug\Music_Player.csproj.GenerateResource.Cache
+c:\users\michael\documents\visual studio 2015\Projects\Music_Player\Music_Player\obj\Debug\Music_Player.exe
+c:\users\michael\documents\visual studio 2015\Projects\Music_Player\Music_Player\obj\Debug\Music_Player.pdb
+C:\Users\Michael\documents\visual studio 2015\Projects\Music_Player\Music_Player\bin\Debug\policy.2.0.taglib-sharp.dll
+C:\Users\Michael\documents\visual studio 2015\Projects\Music_Player\Music_Player\bin\Debug\taglib-sharp.dll
+C:\Users\Michael\documents\visual studio 2015\Projects\Music_Player\Music_Player\bin\Debug\policy.2.0.taglib-sharp.config
+C:\Users\Michael\Desktop\Music_Player 1.2\Music_Player\bin\Debug\Music_Player.exe.config
+C:\Users\Michael\Desktop\Music_Player 1.2\Music_Player\obj\Debug\Music_Player.exe
+C:\Users\Michael\Desktop\Music_Player 1.2\Music_Player\obj\Debug\Music_Player.pdb
+C:\Users\Michael\Desktop\Music_Player 1.2\Music_Player\bin\Debug\Music_Player.exe
+C:\Users\Michael\Desktop\Music_Player 1.2\Music_Player\bin\Debug\Music_Player.pdb
+C:\Users\Michael\Desktop\Music_Player 1.2\Music_Player\bin\Debug\policy.2.0.taglib-sharp.dll
+C:\Users\Michael\Desktop\Music_Player 1.2\Music_Player\bin\Debug\taglib-sharp.dll
+C:\Users\Michael\Desktop\Music_Player 1.2\Music_Player\bin\Debug\policy.2.0.taglib-sharp.config
+C:\Users\Michael\Desktop\Music_Player 1.2\Music_Player\obj\Debug\Music_Player.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Desktop\Music_Player 1.2\Music_Player\obj\Debug\Music_Player.Form1.resources
+C:\Users\Michael\Desktop\Music_Player 1.2\Music_Player\obj\Debug\Music_Player.Properties.Resources.resources
+C:\Users\Michael\Desktop\Music_Player 1.2\Music_Player\obj\Debug\Music_Player.csproj.GenerateResource.Cache
+C:\Users\Michael\Desktop\Music_Player 1.2\Music_Player\obj\Debug\Music_Player.Form2.resources
+C:\Users\Michael\Desktop\Music_Player 1.2.1\Music_Player\bin\Debug\Music_Player.exe.config
+C:\Users\Michael\Desktop\Music_Player 1.2.1\Music_Player\obj\Debug\Music_Player.exe
+C:\Users\Michael\Desktop\Music_Player 1.2.1\Music_Player\obj\Debug\Music_Player.pdb
+C:\Users\Michael\Desktop\Music_Player 1.2.1\Music_Player\bin\Debug\Music_Player.exe
+C:\Users\Michael\Desktop\Music_Player 1.2.1\Music_Player\bin\Debug\Music_Player.pdb
+C:\Users\Michael\Desktop\Music_Player 1.2.1\Music_Player\bin\Debug\policy.2.0.taglib-sharp.dll
+C:\Users\Michael\Desktop\Music_Player 1.2.1\Music_Player\bin\Debug\taglib-sharp.dll
+C:\Users\Michael\Desktop\Music_Player 1.2.1\Music_Player\bin\Debug\policy.2.0.taglib-sharp.config
+C:\Users\Michael\Desktop\Music_Player 1.2.1\Music_Player\obj\Debug\Music_Player.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Desktop\Music_Player 1.2.1\Music_Player\obj\Debug\Music_Player.Form1.resources
+C:\Users\Michael\Desktop\Music_Player 1.2.1\Music_Player\obj\Debug\Music_Player.Form2.resources
+C:\Users\Michael\Desktop\Music_Player 1.2.1\Music_Player\obj\Debug\Music_Player.Properties.Resources.resources
+C:\Users\Michael\Desktop\Music_Player 1.2.1\Music_Player\obj\Debug\Music_Player.csproj.GenerateResource.Cache
+C:\Users\Michael\Desktop\Music_Player 1.2.2\Music_Player\bin\Debug\Music_Player.exe.config
+C:\Users\Michael\Desktop\Music_Player 1.2.2\Music_Player\obj\Debug\Music_Player.exe
+C:\Users\Michael\Desktop\Music_Player 1.2.2\Music_Player\obj\Debug\Music_Player.pdb
+C:\Users\Michael\Desktop\Music_Player 1.2.2\Music_Player\bin\Debug\Music_Player.exe
+C:\Users\Michael\Desktop\Music_Player 1.2.2\Music_Player\bin\Debug\Music_Player.pdb
+C:\Users\Michael\Desktop\Music_Player 1.2.2\Music_Player\bin\Debug\policy.2.0.taglib-sharp.dll
+C:\Users\Michael\Desktop\Music_Player 1.2.2\Music_Player\bin\Debug\taglib-sharp.dll
+C:\Users\Michael\Desktop\Music_Player 1.2.2\Music_Player\bin\Debug\policy.2.0.taglib-sharp.config
+C:\Users\Michael\Desktop\Music_Player 1.2.2\Music_Player\obj\Debug\Music_Player.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Desktop\Music_Player 1.2.2\Music_Player\obj\Debug\Music_Player.Form1.resources
+C:\Users\Michael\Desktop\Music_Player 1.2.2\Music_Player\obj\Debug\Music_Player.Form2.resources
+C:\Users\Michael\Desktop\Music_Player 1.2.2\Music_Player\obj\Debug\Music_Player.Properties.Resources.resources
+C:\Users\Michael\Desktop\Music_Player 1.2.2\Music_Player\obj\Debug\Music_Player.csproj.GenerateResource.Cache
+C:\Users\Michael\Desktop\Music_Player 1.2.3\Music_Player\bin\Debug\Music_Player.exe.config
+C:\Users\Michael\Desktop\Music_Player 1.2.3\Music_Player\obj\Debug\Music_Player.exe
+C:\Users\Michael\Desktop\Music_Player 1.2.3\Music_Player\obj\Debug\Music_Player.pdb
+C:\Users\Michael\Desktop\Music_Player 1.2.3\Music_Player\bin\Debug\Music_Player.exe
+C:\Users\Michael\Desktop\Music_Player 1.2.3\Music_Player\bin\Debug\Music_Player.pdb
+C:\Users\Michael\Desktop\Music_Player 1.2.3\Music_Player\bin\Debug\policy.2.0.taglib-sharp.dll
+C:\Users\Michael\Desktop\Music_Player 1.2.3\Music_Player\bin\Debug\taglib-sharp.dll
+C:\Users\Michael\Desktop\Music_Player 1.2.3\Music_Player\bin\Debug\policy.2.0.taglib-sharp.config
+C:\Users\Michael\Desktop\Music_Player 1.2.3\Music_Player\obj\Debug\Music_Player.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Desktop\Music_Player 1.2.3\Music_Player\obj\Debug\Music_Player.Form1.resources
+C:\Users\Michael\Desktop\Music_Player 1.2.3\Music_Player\obj\Debug\Music_Player.Form2.resources
+C:\Users\Michael\Desktop\Music_Player 1.2.3\Music_Player\obj\Debug\Music_Player.Properties.Resources.resources
+C:\Users\Michael\Desktop\Music_Player 1.2.3\Music_Player\obj\Debug\Music_Player.csproj.GenerateResource.Cache
+C:\Users\Michael\Desktop\timmy\Music_Player 1.2.3\Music_Player\bin\Debug\Music_Player.exe.config
+C:\Users\Michael\Desktop\timmy\Music_Player 1.2.3\Music_Player\obj\Debug\Music_Player.exe
+C:\Users\Michael\Desktop\timmy\Music_Player 1.2.3\Music_Player\obj\Debug\Music_Player.pdb
+C:\Users\Michael\Desktop\timmy\Music_Player 1.2.3\Music_Player\bin\Debug\Music_Player.exe
+C:\Users\Michael\Desktop\timmy\Music_Player 1.2.3\Music_Player\bin\Debug\Music_Player.pdb
+C:\Users\Michael\Desktop\timmy\Music_Player 1.2.3\Music_Player\bin\Debug\policy.2.0.taglib-sharp.dll
+C:\Users\Michael\Desktop\timmy\Music_Player 1.2.3\Music_Player\bin\Debug\taglib-sharp.dll
+C:\Users\Michael\Desktop\timmy\Music_Player 1.2.3\Music_Player\bin\Debug\policy.2.0.taglib-sharp.config
+C:\Users\Michael\Desktop\timmy\Music_Player 1.2.3\Music_Player\obj\Debug\Music_Player.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Desktop\timmy\Music_Player 1.2.3\Music_Player\obj\Debug\Music_Player.Form1.resources
+C:\Users\Michael\Desktop\timmy\Music_Player 1.2.3\Music_Player\obj\Debug\Music_Player.Form2.resources
+C:\Users\Michael\Desktop\timmy\Music_Player 1.2.3\Music_Player\obj\Debug\Music_Player.Properties.Resources.resources
+C:\Users\Michael\Desktop\timmy\Music_Player 1.2.3\Music_Player\obj\Debug\Music_Player.csproj.GenerateResource.Cache
